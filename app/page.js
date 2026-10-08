@@ -66,7 +66,7 @@ export default function Home() {
   return (
     <main className="min-h-screen bg-neutral-100 p-6 text-neutral-900">
       <div className="mx-auto max-w-xl">
-        <h1 className="mb-4 text-2xl font-bold">Prueba de deploy</h1>
+        <h1 className="mb-4 text-2xl font-bold">Práctica Vercel - Ricardo Rodriguez</h1>
 
         <form onSubmit={crear} className="mb-4 flex gap-2">
           <input
